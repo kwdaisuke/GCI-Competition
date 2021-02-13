@@ -1,6 +1,6 @@
 # GCI-Competition
 GCI is Data Science Courses offered by University of Tokyo, Japan \
-This repository records notebooks I created for each competition in this course 
+This repository records notebooks I created for each competition in the course 
 
 
 ## Competition1
